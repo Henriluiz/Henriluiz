@@ -34,5 +34,5 @@ Aqui estão as ferramentas que tenho explorado em minha jornada de aprendizado:
 
 ---
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Henriluiz.Henriluiz))  
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Henriluiz.Henriluiz)
 *Feito com ❤️ e muita tecla Ctrl + S* 🖥️
