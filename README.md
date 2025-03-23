@@ -16,8 +16,9 @@ Aqui estão as ferramentas que tenho explorado em minha jornada de aprendizado:
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
-![](https://github-readme-stats.vercel.app/api?username=Henriluiz&hide=contribs,prs)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Henriluiz&show_icons=true)
+<div>
+  <img align="left" alt="Github stats" height="60" width="70" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula>
+</div>
 
 
 
