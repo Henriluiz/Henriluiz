@@ -17,7 +17,7 @@ Aqui estão as ferramentas que tenho explorado em minha jornada de aprendizado:
 </div>
 
 <div>
-  <img align="left" alt="Github stats" height="60" width="70" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula>
+  <img align="left" alt="Github stats" height="60" width="70" src="https://github-readme-stats.vercel.app/api?username=Henriluiz&show_icons=true&theme=dracula>
 </div>
 
 
