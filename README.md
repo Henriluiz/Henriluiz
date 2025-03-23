@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32px" width="5px"> Olá, eu sou [Seu Nome]! 👨💻
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32px" width="5px"> Olá, eu sou Luiz Azevedo! 👨💻
 
 Sou um entusiasta da programação em evolução constante, mergulhando no universo do **Python Intermediário** enquanto teço meus primeiros códigos em **HTML**, **CSS** e **Git**. Adoro transformar café em linhas de código! ☕️💻  
 
@@ -14,7 +14,7 @@ Aqui estão as ferramentas que tenho explorado em minha jornada de aprendizado:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 **Em breve...** 🚀  
-![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ---
 
