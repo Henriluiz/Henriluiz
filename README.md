@@ -20,10 +20,6 @@ Aqui estão as ferramentas que tenho explorado em minha jornada de aprendizado:
 
 ## 🚀 Projetos Recentes
 
-🔨 **Web Scraper com Python**  
-`Python` `Beautiful Soup` `Pandas`  
-*Extraindo dados da web e organizando em formatos estruturados.*
-
 🎨 **Portfólio Pessoal**  
 `HTML5` `CSS3` `GitHub Pages`  
 *Um cantinho digital para mostrar minha evolução (em breve com JavaScript!)*.
@@ -38,5 +34,5 @@ Aqui estão as ferramentas que tenho explorado em minha jornada de aprendizado:
 
 ---
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Henriluiz/Henriluiz)  
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Henriluiz.Henriluiz))  
 *Feito com ❤️ e muita tecla Ctrl + S* 🖥️
