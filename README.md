@@ -2,8 +2,7 @@
 
 Sou um entusiasta da programação em evolução constante, mergulhando no universo do **Python Intermediário** enquanto teço meus primeiros códigos em **HTML**, **CSS** e **Git**. Adoro transformar café em linhas de código! ☕️💻  
 
-### 🌟 Dê uma olhada nos meus [projetos em destaque](#) (em construção 🚧).
-
+(https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
 ---
 
 ## ⚡ Tech Stack
