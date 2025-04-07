@@ -33,9 +33,24 @@ Aqui estão as ferramentas que tenho explorado em minha jornada de aprendizado:
 
 ## 🚀 Projetos Recentes
 
-🎨 **Portfólio Pessoal**  
-`HTML5` `CSS3` `GitHub Pages`  
-*Um cantinho digital para mostrar minha evolução (em breve com JavaScript!)*.
+### 🦸 **Combate: Heróis vs Vilões Marvel**  
+`⚔️ JavaScript` `🖥️ HTML5` `🎭 CSS3` `🌀 API Marvel`  
+*Batalha interativa com personagens icônicos da Marvel. Um dos meus primeiros projetos com JavaScript, desenvolvido durante a Imersão Alura.*  
+[🔗 Batalhe agora no GitHub](https://github.com/Henriluiz/cabo_de_guerra)  
+
+---
+
+### 🕹️ **Pontes de Vidro (Inspirado em Round 6)**  
+`🎮 JavaScript` `💥 Canvas` `🌉 Física Básica` `⚠️ Design Tenso`  
+*Desafio baseado no jogo da série "Round 6": evite as placas quebradas e sobreviva!*  
+[🔗 Jogue aqui](https://github.com/Henriluiz/ponte_vidro)  
+
+---
+
+### 🎨 **Portfólio Pessoal**  
+`🌐 HTML5` `🎨 CSS3` `🚀 GitHub Pages` `⚡ JavaScript`  
+*Meu espaço digital para expor projetos e evolução contínua*  
+[🔗 Confira o projeto](https://seu-link-portfolio.com)  
 
 ---
 
